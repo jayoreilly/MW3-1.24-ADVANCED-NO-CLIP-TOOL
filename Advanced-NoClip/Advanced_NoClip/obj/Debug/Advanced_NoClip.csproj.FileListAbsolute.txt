@@ -1,0 +1,18 @@
+C:\Users\Admin\Desktop\menu\MW3 Mod Menu\MW3 Mod Menu\obj\Debug\Advanced_NoClip.Form1.resources
+C:\Users\Admin\Desktop\menu\MW3 Mod Menu\MW3 Mod Menu\obj\Debug\Advanced_NoClip.Properties.Resources.resources
+C:\Users\Admin\Desktop\menu\MW3 Mod Menu\MW3 Mod Menu\obj\Debug\Advanced_NoClip.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\menu\MW3 Mod Menu\MW3 Mod Menu\bin\Debug\Advanced_NoClip.exe.config
+C:\Users\Admin\Desktop\menu\MW3 Mod Menu\MW3 Mod Menu\bin\Debug\Advanced_NoClip.exe
+C:\Users\Admin\Desktop\menu\MW3 Mod Menu\MW3 Mod Menu\bin\Debug\Advanced_NoClip.pdb
+C:\Users\Admin\Desktop\menu\MW3 Mod Menu\MW3 Mod Menu\obj\Debug\Advanced_NoClip.exe
+C:\Users\Admin\Desktop\menu\MW3 Mod Menu\MW3 Mod Menu\obj\Debug\Advanced_NoClip.pdb
+C:\Users\Admin\Desktop\menu\Advanced_NoClip\MW3 Mod Menu\bin\Debug\Advanced_NoClip.exe.config
+C:\Users\Admin\Desktop\menu\Advanced_NoClip\MW3 Mod Menu\bin\Debug\Advanced_NoClip.exe
+C:\Users\Admin\Desktop\menu\Advanced_NoClip\MW3 Mod Menu\bin\Debug\Advanced_NoClip.pdb
+C:\Users\Admin\Desktop\menu\Advanced_NoClip\MW3 Mod Menu\obj\Debug\Advanced_NoClip.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\menu\Advanced_NoClip\MW3 Mod Menu\obj\Debug\Advanced_NoClip.Form1.resources
+C:\Users\Admin\Desktop\menu\Advanced_NoClip\MW3 Mod Menu\obj\Debug\Advanced_NoClip.Properties.Resources.resources
+C:\Users\Admin\Desktop\menu\Advanced_NoClip\MW3 Mod Menu\obj\Debug\Advanced_NoClip.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\menu\Advanced_NoClip\MW3 Mod Menu\obj\Debug\Advanced_NoClip.exe
+C:\Users\Admin\Desktop\menu\Advanced_NoClip\MW3 Mod Menu\obj\Debug\Advanced_NoClip.pdb
+C:\Users\Admin\Desktop\menu\MW3 Mod Menu\MW3 Mod Menu\obj\Debug\Advanced_NoClip.csprojResolveAssemblyReference.cache
